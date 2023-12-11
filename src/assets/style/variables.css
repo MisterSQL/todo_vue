@@ -1,0 +1,17 @@
+:root {
+    --color-primary: #FFFFFF;
+    --color-secondary: #000000;
+
+    --color-light-white: #F1F1F1;
+    --color-lighter-white: #D2D2D2;
+
+    --color-warning: #F4C959;
+
+    --error: #ff1616;
+    --color-dark-red: #b00000;
+
+    --success: #008180;
+    --color-green-dark: #026463;
+
+    --font-family: "Manrope", sans-serif ;
+}
